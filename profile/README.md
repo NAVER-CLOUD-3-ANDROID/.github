@@ -21,8 +21,8 @@
 
 | 이름          | 설명                             |
 |---------------|----------------------------------|
-| [`swen-backend`](./swen-backend) | Ktor 기반 Kotlin 백엔드 서버 |
-| [`swen-app`](./swen-app)         | 안드로이드 프론트엔드 앱     |
+| [`swen-backend`](https://github.com/NAVER-CLOUD-3-ANDROID/swen-backend) | Ktor 기반 Kotlin 백엔드 서버 |
+| [`swen-app`](https://github.com/NAVER-CLOUD-3-ANDROID/swen-app)         | 안드로이드 프론트엔드 앱     |
 
 ---
 
