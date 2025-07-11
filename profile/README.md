@@ -29,8 +29,8 @@
 ## 🧑‍💻 팀원 소개
 
 - 👩‍💻 [양한진](https://github.com/hanzyn09) – 뉴스 수집 및 RAG-Agent 구축
-- 👨‍💻 [윤종서](https://github.com/winter-816) – OAuth 및 스크랩 구현, 보안 Route 구축
-- 👩‍💻 [이민혁](https://github.com/MinhyeokChoco) – TTS 및 Dubbing 연동, 화면 구축
+- 👨‍💻 [윤종서](https://github.com/winter-816) – TTS 및 Dubbing 연동, 화면 구축
+- 👩‍💻 [이민혁](https://github.com/MinhyeokChoco) – OAuth 및 스크랩 구현, 보안 Route 구축
 - 👩‍💻 [정유진](https://github.com/juj990717) – 인프라 및 화면 구축
 
 ---
