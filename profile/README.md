@@ -21,7 +21,7 @@
 
 | 이름          | 설명                             |
 |---------------|----------------------------------|
-| [`swen-backend`](https://github.com/NAVER-CLOUD-3-ANDROID/swen-backend) | Ktor 기반 Kotlin 백엔드 서버 |
+| [`swen-backend`](https://github.com/NAVER-CLOUD-3-ANDROID/swen-springboot) | springboot 기반 백엔드 서버 |
 | [`swen-app`](https://github.com/NAVER-CLOUD-3-ANDROID/swen-app)         | 안드로이드 프론트엔드 앱     |
 
 ---
@@ -37,7 +37,7 @@
 
 ## 🔧 기술 스택
 
-- **Backend**: Kotlin, Ktor, Gradle, REST API
+- **Backend**: Java, Springboot, Gradle, REST API
 - **Frontend**: Kotlin(Android), Jetpack Compose
 - **Infra**: GitHub Actions, Docker, Naver Cloud Platform
 - **AI 연계**: TTS / RAG / Agent 기반 뉴스 스크립트 생성
