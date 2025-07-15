@@ -12,7 +12,7 @@
 
 - 📰 뉴스 요약 및 음성 변환
 - 🔊 TTS(Text-to-Speech) API 기반 실시간 뉴스 재생
-- 📦 Kotlin 기반 백엔드 API
+- 📦 SpringBoot 기반 백엔드 API
 - 🎨 Android 앱 UI 구성
 
 ---
