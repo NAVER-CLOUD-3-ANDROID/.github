@@ -52,8 +52,7 @@
 ### Infra & DevOps
 - **Cloud**: 네이버클라우드플랫폼 (NCP)
 - **Storage**: Object Storage (음성 파일 저장)
-- **CI/CD**: GitHub Actions, Docker
-- **Monitoring**: 로그 모니터링, 성능 추적
+- **CI/CD**: Docker
 
 ### AI 기술
 - **RAG (검색 증강 생성)**: 벡터 임베딩 기반 관련 뉴스 추천
