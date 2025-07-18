@@ -45,7 +45,7 @@
 - **Build**: Gradle, REST API, Spring Cloud OpenFeign
 
 ### Frontend  
-- **Framework**: Kotlin (Android), Jetpack Compose
+- **Framework**: Flutter, Jetpack Compose
 - **Architecture**: MVVM, Clean Architecture
 - **UI**: Material Design 3, 반응형 레이아웃
 
