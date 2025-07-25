@@ -31,7 +31,7 @@
 
 - 👩‍💻 [양한진](https://github.com/hanzyn09) – **풀스택 개발 리드** - 뉴스 수집, LLM 활용 스크립트 작성, TTS 연동, RAG 시스템 구축, 로그인 연동
 - 👨‍💻 [윤종서](https://github.com/winter-816) – **음성 처리 담당** - TTS 연동, 음성 품질 최적화, 발표
-- 👩‍💻 [이민혁](https://github.com/MinhyeokChoco) – **프로젝트 매니저** - 일정 관리, 회의실 예약, 팀 코디네이션
+- 👩‍💻 [이민혁](https://github.com/MinhyeokChoco) – **프로젝트 매니저** - JWT token 연동, 일정 관리, 팀 코디네이션
 - 👩‍💻 [정유진](https://github.com/juj990717) – **인프라 및 UI** - NCP 인프라 구축, Android 화면 구현
 
 ---
@@ -45,9 +45,7 @@
 - **Build**: Gradle, REST API, Spring Cloud OpenFeign
 
 ### Frontend  
-- **Framework**: Flutter, Jetpack Compose
-- **Architecture**: MVVM, Clean Architecture
-- **UI**: Material Design 3, 반응형 레이아웃
+- **Framework**: Flutter
 
 ### Infra & DevOps
 - **Cloud**: 네이버클라우드플랫폼 (NCP)
