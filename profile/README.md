@@ -14,7 +14,7 @@
 - 🤖 **AI 관련 뉴스 추천** - RAG(검색 증강 생성) 기반 개인화 뉴스 추천
 - 🔊 **실시간 뉴스 재생** - 원클릭으로 뉴스 듣기 + 관련 뉴스 자동 추천
 - 📦 **SpringBoot 기반 백엔드** - 네이버클라우드플랫폼 통합 API 서버
-- 🎨 **Android 앱 UI** - Jetpack Compose 기반 모던 UI
+- 🎨 **Android 앱 UI** - Flutter 기반 UI
 
 ---
 
