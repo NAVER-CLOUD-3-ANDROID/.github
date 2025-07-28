@@ -2,6 +2,7 @@
 
 네이버클라우드 3조 Android 프로젝트입니다.  
 본 오거나이제이션은 SWEN 뉴스 재생 앱의 **프론트엔드와 백엔드 서버 개발**을 위한 공동 작업 공간입니다.
+또한 https://github.com/Final-project-in-GBSA-NAVERCloud-EDU 에서 참조될 수 있습니다.
 
 ---
 
